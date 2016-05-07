@@ -1,3 +1,3 @@
 # spring-api
 
-An API built with Spring Boot
+A "hello world" level API built with Spring Boot
